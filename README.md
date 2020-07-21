@@ -11,11 +11,19 @@
 ### ls
 > Lists the contents of the array.
 
-> Dizinin içeriğini listeler
+> Dizinin içeriğini listeler.
 
 ```bash
-ls -l
+ls -la
 ```
 > Lists the contents of the array.
 
-> Dizinin içeriğini listeler
+> Displays hidden files in a list.
+
+----------------------------------------
+
+### pwd
+
+> Shows the directory.
+
+> Dizini gösterir.
