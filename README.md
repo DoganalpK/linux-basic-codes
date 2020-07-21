@@ -19,6 +19,7 @@ ls
 
 > Dizinin içeriğini listeler.
 
+
 ```bash
 ls -la
 ```
